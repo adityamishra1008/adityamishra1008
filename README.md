@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityamishra1008
+- 👋 Hi, I’m Aditya Mishra
 - 🌱 I’m currently a Masters Student in University of Ottawa
 - 📫 You can reach me at adityamishra1008@gmail.com
 
