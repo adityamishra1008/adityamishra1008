@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Mishra
-- 🌱 I’m currently a Masters Student in University of Ottawa
+- 🌱 I’m a Full stack developer at Questrade
 - 📫 You can reach me at adityamishra1008@gmail.com
 
 <!---
